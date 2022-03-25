@@ -4,4 +4,4 @@ profunidade.
 
 >Modelo de Fita
 
->Modelo de Prisma
+>Modelo de Prismas
